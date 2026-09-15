@@ -192,9 +192,9 @@ olist-ecommerce-dashboard/
 **[Kapil Makode]**
 Aspiring Data Analyst | Power BI | DAX | Data Modeling
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tera-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-makode-2803k2004)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilm9399/olist-ecommerce-dashboard)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tera-username)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
 
@@ -202,6 +202,5 @@ Aspiring Data Analyst | Power BI | DAX | Data Modeling
 
 ### ⭐ If this project helped you, please star this repository! ⭐
 
-**Made with ❤️ and lots of ☕**
 
 </div>
